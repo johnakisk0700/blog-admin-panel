@@ -1,5 +1,7 @@
 # BlogAdminPanel
 
+This repo serves as an admin panel to this blog express server: https://github.com/johnakisk0700/express-mongo-blog
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
 ## Development server
